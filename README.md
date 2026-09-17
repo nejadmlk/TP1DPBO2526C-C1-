@@ -20,10 +20,15 @@ kalau user menginput angka 5, maka user masuk ke menu cari tiket.
 kalau user menginput angka 6, maka user keluar dari program.
 
 <img width="399" height="251" alt="image" src="https://github.com/user-attachments/assets/9e8a3257-be30-47fc-b746-04c5a2bc26de" />
+
 <img width="328" height="131" alt="image" src="https://github.com/user-attachments/assets/d700c109-d301-41a5-8505-0d65e8daccb6" />
+
 <img width="394" height="162" alt="image" src="https://github.com/user-attachments/assets/b38ac9b5-40f4-4817-8165-8cba007d66a7" />
+
 <img width="477" height="148" alt="image" src="https://github.com/user-attachments/assets/3ffab24d-8051-422f-b69a-bda06c9935a2" />
+
 <img width="477" height="90" alt="image" src="https://github.com/user-attachments/assets/78f59fdc-3ebf-4ed2-9557-2137e4d6f281" />
+
 <img width="520" height="175" alt="image" src="https://github.com/user-attachments/assets/51f02f06-6f16-4342-909f-49f84d935e06" />
 
 
