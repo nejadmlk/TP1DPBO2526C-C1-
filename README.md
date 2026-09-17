@@ -1,3 +1,6 @@
-# TP1DPBO2526C-C1-
-Tp 1 DPBO Nezhad Ahmad Maliki
-<img width="736" height="735" alt="752dee61ba015ffa2c825ee402b38fed" src="https://github.com/user-attachments/assets/1e0cd625-e9ea-44dd-bb57-0c3fb54a607f" />
+Penjelasan :
+jadi pada program saya ini hanya terdapat satu file class dan satu main. disini alur program yang saya buat ialah proses pemesanan atau proses booking tiket bioskop.
+Pada file cpp, java, dan python, user disajikan dengan sebuah tampilan menu yang bisa dipilih sesuai dengan kemauan user.
+
+Berikut adalah contoh displaynya:
+<img width="399" height="251" alt="image" src="https://github.com/user-attachments/assets/9e8a3257-be30-47fc-b746-04c5a2bc26de" />
