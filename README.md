@@ -33,3 +33,7 @@ pada halaman paling utama user disajikan dengan gambar poster film apa saja yang
 
 pada bagian footer pada halaman utama, terdapat tabel yang berisi data dari tiket yang telah dipesan.
 
+<img width="1896" height="988" alt="image" src="https://github.com/user-attachments/assets/66b2e77e-b9ff-4a51-b42f-c058bfeef399" />
+<img width="1886" height="846" alt="image" src="https://github.com/user-attachments/assets/7ba259ad-dbb0-450e-8ed1-82aff22c1feb" />
+<img width="1840" height="196" alt="image" src="https://github.com/user-attachments/assets/8b9c3c45-3560-4155-800e-d3761ea249cc" />
+
