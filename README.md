@@ -1,3 +1,8 @@
+Janji:
+Saya Nezhad Ahmad Maliki dengan NIM 2503880 mengerjakan Tp 1
+dalam mata kuliah DPBO untuk keberkahanNya maka saya
+tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+
 Penjelasan :
 jadi pada program saya ini hanya terdapat satu file class dan satu main yang terdiri dari file Resepsionis dan Main. disini alur program yang saya buat ialah proses pemesanan atau proses booking tiket bioskop.
 program ini menggunakan arraylist untuk menyimpan data dari inputan user.
