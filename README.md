@@ -27,4 +27,9 @@ kalau user menginput angka 6, maka user keluar dari program.
 <img width="520" height="175" alt="image" src="https://github.com/user-attachments/assets/51f02f06-6f16-4342-909f-49f84d935e06" />
 
 
+sedangkan kalau pada php, karena php itu berbasis web jadi dapat menampilkan gambar. alur programnya kurang lebih sama dengan bahasa yang lain, hanya saja di php ini user tidak perlu memilih dengan menginput angka lagi,
+user dapat langsung memilih dia mau melakukkan apa saja terhadap data tiket bioskopnya karena langsung disajikan form untuk booking/tambah data, hapus, cari, dan update data.
+pada halaman paling utama user disajikan dengan gambar poster film apa saja yang sedang tayang yang kemudian user dapat memilih film apa yang akan ditonton.
+
+pada bagian footer pada halaman utama, terdapat tabel yang berisi data dari tiket yang telah dipesan.
 
