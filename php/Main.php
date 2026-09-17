@@ -7,14 +7,9 @@ include "Resepsionis.php";
 session_name("BIOSKOP_BARU");
 session_start();
 
-//buat data session
-
 if (!isset($_SESSION['data'])) {
     $_SESSION['data'] = [];
 }
-
-
-//proses tambah tiket
 
 if (isset($_POST['tambah'])) {
 
@@ -35,9 +30,6 @@ if (isset($_POST['tambah'])) {
     header("Location: Main.php");
     exit;
 }
-
-
-//proses update tiket
 
 if (isset($_POST['update'])) {
 
@@ -71,9 +63,6 @@ if (isset($_POST['update'])) {
     exit;
 }
 
-
-//proses hapus tiket
-
 if (isset($_POST['hapus'])) {
 
     $tiketHapus = $_POST['tiketHapus'];
@@ -99,9 +88,6 @@ if (isset($_POST['hapus'])) {
     header("Location: Main.php");
     exit;
 }
-
-
-//proses cari tiket
 
 $dataCari = [];
 
@@ -154,9 +140,6 @@ if (isset($_POST['cari'])) {
 
 
 <h1>MENU BIOSKOP</h1>
-
-
-//poster film
 
 <h2>Film Sedang Tayang</h2>
 
@@ -213,10 +196,6 @@ if (isset($_POST['cari'])) {
 
 
 </div>
-
-
-
-//form tambah
 
 <div class="form-box">
 
@@ -307,10 +286,6 @@ if (isset($_POST['cari'])) {
     </form>
 
 </div>
-
-
-
-//form update
 
 <div class="form-box">
 
@@ -404,10 +379,6 @@ if (isset($_POST['cari'])) {
 
 </div>
 
-
-
-//form hapus
-
 <div class="form-box">
 
     <h2>Hapus Tiket</h2>
@@ -472,8 +443,6 @@ if (isset($_POST['cari'])) {
     </form>
 
 </div>
-
-//tabel hasil cari
 
 <?php
 
@@ -587,10 +556,6 @@ while ($i < count($dataCari)) {
 }
 
 ?>
-
-
-
-//tabel semua data tiket
 
 <h2>Data Tiket</h2>
 
